@@ -1,0 +1,15 @@
+C:\Users\Philip\Documents\Schule\Diplo\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand\bin\Debug\net5.0\ÖBB-Prüfstand.deps.json
+C:\Users\Philip\Documents\Schule\Diplo\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand\bin\Debug\net5.0\ÖBB-Prüfstand.runtimeconfig.json
+C:\Users\Philip\Documents\Schule\Diplo\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand\bin\Debug\net5.0\ÖBB-Prüfstand.runtimeconfig.dev.json
+C:\Users\Philip\Documents\Schule\Diplo\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand\bin\Debug\net5.0\ÖBB-Prüfstand.dll
+C:\Users\Philip\Documents\Schule\Diplo\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand\bin\Debug\net5.0\ref\ÖBB-Prüfstand.dll
+C:\Users\Philip\Documents\Schule\Diplo\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand\bin\Debug\net5.0\ÖBB-Prüfstand.pdb
+C:\Users\Philip\Documents\Schule\Diplo\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand\obj\Debug\net5.0\ÖBB-Prüfstand.csproj.AssemblyReference.cache
+C:\Users\Philip\Documents\Schule\Diplo\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand\obj\Debug\net5.0\ÖBB-Prüfstand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philip\Documents\Schule\Diplo\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand\obj\Debug\net5.0\ÖBB-Prüfstand.AssemblyInfoInputs.cache
+C:\Users\Philip\Documents\Schule\Diplo\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand\obj\Debug\net5.0\ÖBB-Prüfstand.AssemblyInfo.cs
+C:\Users\Philip\Documents\Schule\Diplo\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand\obj\Debug\net5.0\ÖBB-Prüfstand.csproj.CoreCompileInputs.cache
+C:\Users\Philip\Documents\Schule\Diplo\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand\obj\Debug\net5.0\ÖBB-Prüfstand.dll
+C:\Users\Philip\Documents\Schule\Diplo\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand\obj\Debug\net5.0\ref\ÖBB-Prüfstand.dll
+C:\Users\Philip\Documents\Schule\Diplo\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand\obj\Debug\net5.0\ÖBB-Prüfstand.pdb
+C:\Users\Philip\Documents\Schule\Diplo\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand\obj\Debug\net5.0\ÖBB-Prüfstand.genruntimeconfig.cache

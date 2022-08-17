@@ -1,0 +1,23 @@
+#one {
+  float: left
+}
+#three {
+  float: left
+}
+#five {
+  float: left
+}
+#selectPruefer {
+  float: right;
+  margin-right: 18cm;
+  margin-top: 1cm;
+}
+#clearChartButton {
+  margin-top: 2mm;
+}
+#loadChartButton {
+  margin-top: 2mm;
+}
+#saveButton {
+  margin-top: 2mm;
+}

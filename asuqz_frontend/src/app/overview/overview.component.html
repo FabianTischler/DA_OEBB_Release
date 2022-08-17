@@ -1,0 +1,121 @@
+<div id="selectPruefer">
+  <mat-form-field appearance="fill">
+    <select matNativeControl [(ngModel)]="selectedPruefer" name="pruefer">
+      <option value="" selected></option>
+      <option *ngFor="let pruefer of pruefers" [value]="pruefer.p_nachname + ' ' + pruefer.p_vorname">
+        {{pruefer.p_nachname}}
+      </option>
+    </select>
+  </mat-form-field>
+  <br/>
+  Prüfer:
+    <ng-template *ngIf="selectedPruefer.p_nachname === ''then one; else two"></ng-template>
+    <ng-template #one></ng-template>
+    <ng-template #two>{{selectedPruefer}}</ng-template>
+
+  <div id="loadChartButton">
+    <button
+      mat-raised-button
+      color="secondary"
+      class="mdc-button mdc-button--outlined"
+      (click)="loadChartData()"
+    >
+      Chart laden
+    </button>
+  </div>
+
+  <div id="clearChartButton">
+    <button
+      mat-raised-button
+      color="secondary"
+      class="mdc-button mdc-button--outlined"
+      (click)="clearCharts()"
+    >
+      Chart zurücksetzen
+    </button>
+  </div>
+
+  <div id="saveButton">
+    <button
+      mat-raised-button
+      color="secondary"
+      class="mdc-button mdc-button--outlined"
+      (click)="openDialog()"
+    >
+      Speichern
+    </button>
+  </div>
+</div>
+
+<div id="one" class="chartjs-block">
+  <canvas baseChart height="240" width="300"
+      [datasets]="dataPointsBWA"
+      [labels]="BWALabels"
+      [options]="options"
+      [colors]="colors"
+      [legend]="legend"
+      [chartType]="type"
+      [plugins]="plugins">
+  </canvas>
+</div>
+
+<div id="two" class="chartjs-block">
+  <canvas baseChart height="240" width="300"
+      [datasets]="dataPointsBWB"
+      [labels]="BWBLabels"
+      [options]="options"
+      [colors]="colors"
+      [legend]="legend"
+      [chartType]="type"
+      [plugins]="plugins">
+  </canvas>
+</div>
+
+<div id="three" class="chartjs-block">
+  <canvas baseChart height="240" width="300"
+      [datasets]="dataPointsMWA"
+      [labels]="MWALabels"
+      [options]="options"
+      [colors]="colors"
+      [legend]="legend"
+      [chartType]="type"
+      [plugins]="plugins">
+  </canvas>
+</div>
+
+<div id="four" class="chartjs-block">
+  <canvas baseChart height="240" width="300"
+      [datasets]="dataPointsMWB"
+      [labels]="MWBLabels"
+      [options]="options"
+      [colors]="colors"
+      [legend]="legend"
+      [chartType]="type"
+      [plugins]="plugins">
+  </canvas>
+</div>
+
+<div id="five" class="chartjs-block">
+  <canvas baseChart height="240" width="300"
+      [datasets]="dataPointsRWA"
+      [labels]="RWALabels"
+      [options]="options"
+      [colors]="colors"
+      [legend]="legend"
+      [chartType]="type"
+      [plugins]="plugins">
+  </canvas>
+</div>
+
+<div id="six" class="chartjs-block">
+  <canvas baseChart height="240" width="300"
+      [datasets]="dataPointsRWB"
+      [labels]="RWBLabels"
+      [options]="options"
+      [colors]="colors"
+      [legend]="legend"
+      [chartType]="type"
+      [plugins]="plugins">
+  </canvas>
+</div>
+

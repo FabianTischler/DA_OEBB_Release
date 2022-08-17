@@ -1,0 +1,54 @@
+<mat-form-field appearance="fill">
+  <mat-label>Zustand</mat-label>
+  <select matNativeControl [(ngModel)]="selectedZustand" name="z">
+    <option value="" selected></option>
+    <option *ngFor="let z of zustand" [value]="z">{{z}}</option>
+  </select>
+</mat-form-field>
+
+<mat-form-field appearance="fill">
+  <mat-label>Jahr</mat-label>
+  <select matNativeControl [(ngModel)]="selectedYear" name="y">
+    <option value="" selected></option>
+    <option *ngFor="let y of years" [value]="y">{{y}}</option>
+  </select>
+</mat-form-field>
+
+<mat-form-field appearance="fill" (change)="chooseDays()">
+  <mat-label>Monat</mat-label>
+  <select matNativeControl [(ngModel)]="selectedMonth" name="m">
+    <option value="" selected></option>
+    <option *ngFor="let m of months" [value]="m">{{m}}</option>
+  </select>
+</mat-form-field>
+
+<mat-form-field appearance="fill">
+  <mat-label>Tag</mat-label>
+  <select matNativeControl [(ngModel)]="selectedDay" name="d">
+    <option value="" selected></option>
+    <option *ngFor="let d of days" [value]="d">{{d}}</option>
+  </select>
+</mat-form-field>
+
+<button
+      mat-raised-button
+      color="primary"
+      class="mdc-button mdc-button--outlined"
+      (click)="getEvaluation()"
+    >
+      Evaluate
+</button>
+
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Datum</th>
+    <th>Zustand</th>
+  </tr>
+  <tr *ngFor="let e of errors">
+    <td>{{e.name}}</td>
+    <td>{{e.date}}</td>
+    <td>{{e.zustand}}</td>
+  </tr>
+</table>

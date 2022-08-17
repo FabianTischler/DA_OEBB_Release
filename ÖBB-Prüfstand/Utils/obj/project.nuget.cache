@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wqXw9hFuJAE59a77pqbEm9p822jTjgRr5Ldw0YYnGn4W5dA9MRX5K/bvMZfEqEryvySmirUhQqi/il6VYItCZw==",
+  "success": true,
+  "projectFilePath": "D:\\Schule\\Diplo\\ASUQZ\\DA_oebb_trinkl_tischler\\ÖBB-Prüfstand\\Utils\\Utils.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabia\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.6\\microsoft.aspnetcore.cryptography.internal.5.0.6.nupkg.sha512",
+    "C:\\Users\\fabia\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.6\\microsoft.aspnetcore.cryptography.keyderivation.5.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

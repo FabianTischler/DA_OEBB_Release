@@ -1,0 +1,39 @@
+<mat-toolbar>
+  <span>ASUQZ</span>
+  <div id="one">
+    <button
+        mat-raised-button
+        color="secondary"
+        class="mdc-button mdc-button--outlined"
+        [routerLink]="['overview']"
+      >
+        Overview
+    </button>
+    <button
+        mat-raised-button
+        color="secondary"
+        class="mdc-button mdc-button--outlined"
+        [routerLink]="['show-function']"
+      >
+        Show-Function
+    </button>
+    <button
+        mat-raised-button
+        color="secondary"
+        class="mdc-button mdc-button--outlined"
+        [routerLink]="['choose-file']"
+      >
+        Choose File
+    </button>
+    <button
+        mat-raised-button
+        color="secondary"
+        class="mdc-button mdc-button--outlined"
+        [routerLink]="['evaluate-error']"
+      >
+        Evaluation
+    </button>
+  </div>
+</mat-toolbar>
+<br>
+<router-outlet></router-outlet>

@@ -1,0 +1,12 @@
+<section class="example-section">
+  <mat-checkbox class="example-margin" [disabled]="disabled" (change)="onAuslaufSelected()">Auslauf</mat-checkbox>&nbsp;&nbsp;
+  <mat-checkbox class="example-margin" [disabled]="disabled" (change)="onAuslauf2Selected()">Auslauf 2</mat-checkbox>&nbsp;&nbsp;
+  <mat-checkbox class="example-margin" [disabled]="disabled" (change)="onLagerSelected()">Lager</mat-checkbox>&nbsp;&nbsp;
+  <mat-checkbox class="example-margin" [disabled]="disabled" (change)="onSchlagSelected()">Schlag</mat-checkbox>&nbsp;&nbsp;
+  <mat-checkbox class="example-margin" [disabled]="disabled" (change)="onWarmSelected()">Warmlauf</mat-checkbox>&nbsp;&nbsp;
+  <mat-checkbox class="example-margin" [disabled]="disabled" (change)="onWuchtSelected()">Wuchtlauf</mat-checkbox>
+</section>
+
+<br>
+
+<input type="file" class="file-input" (change)="onFileSelected($event)">

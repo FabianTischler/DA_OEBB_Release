@@ -1,0 +1,33 @@
+<h1 mat-dialog-title>Prüfer: {{data.pruefer}}</h1>
+<div mat-dialog-content>
+  <mat-checkbox class="example-margin">Geprüft</mat-checkbox>&nbsp;
+  <mat-checkbox class="example-margin">Geprüft und Frei</mat-checkbox>
+</div>
+<br/>
+<div>
+  <mat-accordion>
+    <mat-expansion-panel hideToggle>
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          Zusätzliche Kriterien/Fehler
+        </mat-panel-title>
+      </mat-expansion-panel-header>
+      <mat-list>
+        <mat-list-item id="listitems" *ngFor="let item of kriterien" >
+          <h3 matLine>{{item}}</h3>
+        </mat-list-item>
+      </mat-list>
+      <mat-form-field class="example-full-width" appearance="fill">
+        <input matInput value="" [(ngModel)]="kriterium">
+      </mat-form-field>
+      <button mat-icon-button (click)="pushKriterium()">
+        <mat-icon>add</mat-icon>
+      </button>
+    </mat-expansion-panel>
+  </mat-accordion>
+</div>
+<br/>
+<div mat-dialog-actions>
+  <button mat-button (click)="onNoClick()">Zurück</button>
+  <button mat-button (click)="save()">Speichern</button>
+</div>

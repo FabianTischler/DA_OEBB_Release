@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ÖBB-Prüfstand.Core\OEBB-Pruefstand.Core.csproj" />
+    <ProjectReference Include="..\ÖBB-Prüfstand.Persistence\OEBB-Pruefstand.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

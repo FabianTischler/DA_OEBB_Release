@@ -1,0 +1,112 @@
+\glsdefs@newdocentry{guid}%
+{%
+name={GUID},%
+sort={GUID},%
+type={main},%
+first={Globally Unique Identifier\glsspace (GUID)},%
+firstplural={Globally Unique Identifier\acrpluralsuffix \glsspace (GUID\acrpluralsuffix )},%
+text={GUID},%
+plural={GUID\acrpluralsuffix },%
+description={Globally Unique Identifier},%
+descriptionplural={Globally Unique Identifier\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Globally Unique Identifier},%
+longplural={Globally Unique Identifiers},%
+short={GUID},%
+shortplural={GUIDs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{jit}%
+{%
+name={JIT},%
+sort={JIT},%
+type={main},%
+first={Just In Time Compiler\glsspace (JIT)},%
+firstplural={Just In Time Compiler\acrpluralsuffix \glsspace (JIT\acrpluralsuffix )},%
+text={JIT},%
+plural={JIT\acrpluralsuffix },%
+description={Just In Time Compiler},%
+descriptionplural={Just In Time Compiler\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Just In Time Compiler},%
+longplural={Just In Time Compilers},%
+short={JIT},%
+shortplural={JITs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{nfc}%
+{%
+name={NFC},%
+sort={NFC},%
+type={main},%
+first={Near Field Communication\glsspace (NFC)},%
+firstplural={Near Field Communication\acrpluralsuffix \glsspace (NFC\acrpluralsuffix )},%
+text={NFC},%
+plural={NFC\acrpluralsuffix },%
+description={Near Field Communication},%
+descriptionplural={Near Field Communication\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Near Field Communication},%
+longplural={Near Field Communications},%
+short={NFC},%
+shortplural={NFCs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{rfid}%
+{%
+name={RFID},%
+sort={RFID},%
+type={main},%
+first={Radio Frequency Identification\glsspace (RFID)},%
+firstplural={Radio Frequency Identification\acrpluralsuffix \glsspace (RFID\acrpluralsuffix )},%
+text={RFID},%
+plural={RFID\acrpluralsuffix },%
+description={Radio Frequency Identification},%
+descriptionplural={Radio Frequency Identification\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Radio Frequency Identification},%
+longplural={Radio Frequency Identifications},%
+short={RFID},%
+shortplural={RFIDs},%
+counter={page},%
+parent={},%
+%
+}%
+

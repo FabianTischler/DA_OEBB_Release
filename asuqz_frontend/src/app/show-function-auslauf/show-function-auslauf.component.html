@@ -1,0 +1,28 @@
+<div id="select">
+  <mat-form-field appearance="fill" (change)="onSelect()">
+    <select matNativeControl [(ngModel)]="selectedFunction" name="f">
+      <option value="" selected></option>
+      <option *ngFor="let f of functions" [value]="f.beschreibung">{{f.beschreibung}}</option>
+    </select>
+  </mat-form-field>
+</div>
+
+<div id="button">
+  <button
+    [disabled]="disabled"
+    mat-button mat-raised-button color="primary" (click)="push()">
+    Nächste Daten
+  </button>
+</div>
+
+<div id="one" class="chartjs-block">
+  <canvas baseChart height="600" width="1500"
+      [datasets]="dataPoints"
+      [labels]="labels"
+      [options]="options"
+      [colors]="colors"
+      [legend]="legend"
+      [chartType]="type"
+      [plugins]="plugins">
+  </canvas>
+</div>

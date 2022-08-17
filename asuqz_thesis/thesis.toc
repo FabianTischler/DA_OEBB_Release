@@ -1,0 +1,66 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {subsubsection}{\nonumberline Task}{I}{subsubsection*.3}%
+\contentsline {subsubsection}{\nonumberline Implementation}{I}{subsubsection*.5}%
+\contentsline {subsubsection}{\nonumberline Result}{I}{subsubsection*.7}%
+\contentsline {subsubsection}{\nonumberline Aufgabenstellung}{II}{subsubsection*.10}%
+\contentsline {subsubsection}{\nonumberline Realisierung}{II}{subsubsection*.12}%
+\contentsline {subsubsection}{\nonumberline Ergebnis}{II}{subsubsection*.14}%
+\contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Pflichtenheft}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Ausgangssituation}{2}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Zielsetzung}{2}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Funktionale Anforderungen}{2}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Analyse der vorhandenen Daten}{2}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Antriebsprüfstands-Software zur Untersuchung und Qualitätssicherung von Zugteilen}{3}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}Nicht-funktionale Anforderungen}{4}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Programm}{4}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Allgemeine Beschreibung}{4}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Mockups}{4}{subsection.2.5.2}%
+\contentsline {chapter}{\numberline {3}Technologien Frontend}{6}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Auswahl der Frontend-Technologie}{6}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}ReactJS}{6}{subsection.3.1.1}%
+\contentsline {subsubsection}{\nonumberline Vorteile}{6}{subsubsection*.23}%
+\contentsline {subsubsection}{\nonumberline Nachteile}{7}{subsubsection*.25}%
+\contentsline {subsection}{\numberline {3.1.2}Angular}{7}{subsection.3.1.2}%
+\contentsline {subsubsection}{\nonumberline Vorteile}{7}{subsubsection*.27}%
+\contentsline {subsubsection}{\nonumberline Nachteile}{7}{subsubsection*.29}%
+\contentsline {subsection}{\numberline {3.1.3}Vue.js}{7}{subsection.3.1.3}%
+\contentsline {subsubsection}{\nonumberline Vorteile}{7}{subsubsection*.31}%
+\contentsline {subsubsection}{\nonumberline Nachteile}{8}{subsubsection*.33}%
+\contentsline {section}{\numberline {3.2}Angular}{8}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Aufbau des Angular-Frameworks}{8}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}TypeScript}{9}{subsection.3.2.2}%
+\contentsline {subsubsection}{\nonumberline Syntax}{9}{subsubsection*.37}%
+\contentsline {subsubsection}{\nonumberline Typisierung}{10}{subsubsection*.39}%
+\contentsline {subsubsection}{\nonumberline Laufzeitverhalten}{10}{subsubsection*.41}%
+\contentsline {subsubsection}{\nonumberline Funktionen von TypeScript:}{10}{subsubsection*.43}%
+\contentsline {section}{\numberline {3.3}Visual Studio Code}{11}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Umsetzung Frontend}{12}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Datenmodell}{12}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}OEBBError}{12}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}OEBBFunktion}{12}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}OEBBKriterien}{13}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}OEBBMessergebenisse}{13}{subsection.4.1.4}%
+\contentsline {section}{\numberline {4.2}Service}{13}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Auswählen der Datei}{14}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Visualisierungskomponente}{17}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Initialisierung}{18}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Auswählen der Funktion}{19}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Darstellen der Funktion}{19}{subsection.4.4.3}%
+\contentsline {subsubsection}{\nonumberline Reset und Kriterien}{20}{subsubsection*.47}%
+\contentsline {subsubsection}{\nonumberline Befüllen der Daten}{21}{subsubsection*.49}%
+\contentsline {subsubsection}{\nonumberline Zeichnen der Graphik}{22}{subsubsection*.51}%
+\contentsline {subsection}{\numberline {4.4.4}Push}{23}{subsection.4.4.4}%
+\contentsline {section}{\numberline {4.5}Auswertungskomponente}{25}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Auswahl der Kriterien}{25}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Mocking der Auswertungskomponente}{26}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}Befüllen der Auswertungskomponente über das Backend}{28}{subsection.4.5.3}%
+\contentsline {section}{\numberline {4.6}Overviewkomponente}{30}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Graphen}{31}{subsection.4.6.1}%
+\contentsline {chapter}{\numberline {5}Zukünftige Erweiterungsmöglichkeiten}{36}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Zusätzliche Filtermöglichkeiten}{36}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Anbindung an das Produktivprogramm}{36}{section.5.2}%
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{V}{chapter*.58}%
+\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{VII}{chapter*.59}%
+\contentsline {chapter}{\nonumberline Quellcodeverzeichnis}{VIII}{chapter*.60}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

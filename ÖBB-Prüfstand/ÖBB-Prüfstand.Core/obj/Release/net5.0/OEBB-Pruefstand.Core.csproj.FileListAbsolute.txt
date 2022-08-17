@@ -1,0 +1,15 @@
+D:\Schule\Diplo\ASUQZ\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand.Core\bin\Release\net5.0\OEBB-Pruefstand.Core.deps.json
+D:\Schule\Diplo\ASUQZ\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand.Core\bin\Release\net5.0\OEBB-Pruefstand.Core.runtimeconfig.json
+D:\Schule\Diplo\ASUQZ\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand.Core\bin\Release\net5.0\OEBB-Pruefstand.Core.runtimeconfig.dev.json
+D:\Schule\Diplo\ASUQZ\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand.Core\bin\Release\net5.0\OEBB-Pruefstand.Core.dll
+D:\Schule\Diplo\ASUQZ\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand.Core\bin\Release\net5.0\ref\OEBB-Pruefstand.Core.dll
+D:\Schule\Diplo\ASUQZ\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand.Core\bin\Release\net5.0\OEBB-Pruefstand.Core.pdb
+D:\Schule\Diplo\ASUQZ\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand.Core\obj\Release\net5.0\OEBB-Pruefstand.Core.csproj.AssemblyReference.cache
+D:\Schule\Diplo\ASUQZ\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand.Core\obj\Release\net5.0\OEBB-Pruefstand.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Schule\Diplo\ASUQZ\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand.Core\obj\Release\net5.0\OEBB-Pruefstand.Core.AssemblyInfoInputs.cache
+D:\Schule\Diplo\ASUQZ\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand.Core\obj\Release\net5.0\OEBB-Pruefstand.Core.AssemblyInfo.cs
+D:\Schule\Diplo\ASUQZ\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand.Core\obj\Release\net5.0\OEBB-Pruefstand.Core.csproj.CoreCompileInputs.cache
+D:\Schule\Diplo\ASUQZ\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand.Core\obj\Release\net5.0\OEBB-Pruefstand.Core.dll
+D:\Schule\Diplo\ASUQZ\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand.Core\obj\Release\net5.0\ref\OEBB-Pruefstand.Core.dll
+D:\Schule\Diplo\ASUQZ\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand.Core\obj\Release\net5.0\OEBB-Pruefstand.Core.pdb
+D:\Schule\Diplo\ASUQZ\DA_oebb_trinkl_tischler\ÖBB-Prüfstand\ÖBB-Prüfstand.Core\obj\Release\net5.0\OEBB-Pruefstand.Core.genruntimeconfig.cache
